@@ -1,0 +1,6 @@
+{
+  "name": "NVIDIA Metropolis Command & Vision Platform",
+  "description": "Unified enterprise dashboard for NVIDIA Metropolis AI-driven video analytics, real-time edge sensor telemetry, dual-licensing governance, and CLA contributor management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
